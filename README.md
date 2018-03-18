@@ -19,7 +19,7 @@ A curated list of awesome Processing frameworks, libraries, tools and resources.
   - [GUI](#gui)
   - [Geometry](#geometry)
   - [Hardware](hardware)
-  - [I/O](i-o)
+  - [I/O](#io)
   - [Language](#language)
   - [Math](#math)
   - [Other](#other)
@@ -27,7 +27,7 @@ A curated list of awesome Processing frameworks, libraries, tools and resources.
   - [Sound](#sound)
   - [Typography](#typography)
   - [Utilities](#utilities)
-  - [Video & Vision](#video---vision)
+  - [Video & Vision](#video--vision)
 
 ## Books
 
