@@ -36,7 +36,7 @@
 - [Processing.py](http://py.processing.org/)
 - [Processing For Android](http://android.processing.org/)
 - [Reference](https://processing.org/reference/)
-- [GitHub](https://github.com/processing/processing)
+- [GitHub](https://github.com/processing/)
 - [Forum](https://forum.processing.org/two/)
 
 ## Website
