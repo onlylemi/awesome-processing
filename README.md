@@ -1,11 +1,11 @@
-# Awesome [Processing](https://processing.org/)
+# Awesome Processing
 
-A curated list of awesome Processing frameworks, libraries, tools and resources...
+[Processing](https://en.wikipedia.org/wiki/Processing_(programming_language)) is an open-source computer programming language and integrated development environment (IDE) built for the **electronic arts**, **new media art**, and **visual design communities** with the purpose of teaching non-programmers the fundamentals of computer programming in a visual context.
 
 ## Contents
 
-- Environment
-- References
+- [Environment](#environment)
+- [Website](#website)
 - [Books](#books)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
@@ -28,6 +28,20 @@ A curated list of awesome Processing frameworks, libraries, tools and resources.
   - [Typography](#typography)
   - [Utilities](#utilities)
   - [Video & Vision](#video--vision)
+  
+## Environment
+
+- [Processing](https://processing.org/)
+- [p5.js](https://p5js.org/)
+- [Processing.py](http://py.processing.org/)
+- [Processing For Android](http://android.processing.org/)
+- [Reference](https://processing.org/reference/)
+- [GitHub](https://github.com/processing/processing)
+- [Forum](https://forum.processing.org/two/)
+
+## Website
+
+- [OpenProcessing](https://www.openprocessing.org/) - Creative Coding for the Visual Mind
 
 ## Books
 
