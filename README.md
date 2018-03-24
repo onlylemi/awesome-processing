@@ -43,7 +43,12 @@
 
 ## Website
 
-- [OpenProcessing](https://www.openprocessing.org/) - Creative Coding for the Visual Mind
+- [OpenProcessing](https://www.openprocessing.org/) - Creative Coding for the Visual Mind 👍
+- [Hello Processing](http://hello.processing.org/) - 在线互动学习网站
+- [FunProgramming](http://funprogramming.org/)
+- [MIT MEDIA LAB](https://www.media.mit.edu/)
+- [Eyeo Festival](http://eyeofestival.com/)
+- [CreativeApplications](http://www.creativeapplications.net/)
 
 ## Books
 
