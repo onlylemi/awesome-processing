@@ -1,5 +1,7 @@
 # Awesome Processing
 
+> [**中文资料**](README-zh.md)
+
 [Processing](https://en.wikipedia.org/wiki/Processing_(programming_language)) is an open-source computer programming language and integrated development environment (IDE) built for the **electronic arts**, **new media art**, and **visual design communities** with the purpose of teaching non-programmers the fundamentals of computer programming in a visual context.
 
 ## Contents
